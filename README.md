@@ -10,4 +10,5 @@ Lab1
 ### Spring 2025
 
 *Major*: Mathematics (Data Science Option)
+
 *Programming Experience*: Programming Fundamentals 1, 2, and 3 taken at TCC
